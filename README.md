@@ -1,11 +1,12 @@
 # psych_games
+
 ⚠️ WARNING: This game involves psychological interaction. Please read the Disclaimer before playing or contributing.
 
 Games using emotion or psychology to engage players to interact with each other
 
-The first game is *TellUrFeelingz*, a card game for between 2-6 people. Goal is to gain the most cards and/or most tokens by the end of the game. Variants of the game without cards, and using different materials will also be posted and updated.
+CleanIt is a card game for between 2-6 people. Goal is to be the first player to lose all of your cards representing all the items you want to dispose of. Recycling rules can be modified and players can decided on any customization to make it more interesting.
 
-Players can modify the game by changing the Feelings cards, Adding or Subtracting more Options, and customizing parts to fit their own visions for games. I have added an Anywhere variant that uses common playing cards as substitutes for the Feelings cards, and coins to indicate True/False. There is also a Bookie role to keep track of bets, tokens and the Bank.
+Players can modify the game by changing the Items cards, Adding or Subtracting more Categories, and customizing details to fit their own visions for how to recycle or dispose of items. I will add stubs or ideas for variants if players want to build on them.
 
 Please read the **LICENSE** to see the details of the Creative Commons CC BY 4.0 license [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
 

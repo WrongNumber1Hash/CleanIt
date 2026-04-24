@@ -1,158 +1,178 @@
-# **TellUrFeelingz**
+# CleanIt
 
-*A social card game of emotions, stories, and strategy*
-**2–4 Players | Ages 13+ | 20–40 Minutes**
-
----
-
-## **Objective**
-
-Score the most points by collecting **Feelings Cards** and **Tokens** through storytelling, bluffing, and smart guessing.
+### Rule Sheet (48-Card Version)
 
 ---
 
-## **Components**
+## Objective
 
-* **48 Feelings Cards**
-
-  * 6 Feeling Types:
-
-    * Sad (Red)
-    * Happy (Green)
-    * Angry (Red)
-    * Love (Green)
-    * Frustrated (Yellow)
-    * Bored (Yellow)
-
-* **48 True/False Cards**
-
-  * 24 True
-  * 24 False
-
-* **Tokens**
-* **Bank** (shared supply of tokens)
+Be the first player to get rid of all your cards.
 
 ---
 
-## **Setup**
+## Components
 
-1. Shuffle the Feelings Cards and deal them evenly to all players.
+* 48 Item Cards
+* 4 Category Piles:
 
-   * Players form a face-down deck with their cards.
-   * Cards may not be rearranged.
-2. Give each player **3 True cards and 3 False cards**.
-3. Give each player an equal number of Tokens.
-4. Place the remaining Tokens in a shared bank.
-
----
-
-## **Gameplay**
-
-* Players take turns clockwise.
-* On your turn, flip the **top Feelings Card** from your deck and place it face up into a shared pile.
-* Cards are played strictly from the top of your deck.
-* Any cards you win are placed **face down at the bottom of your deck**.
+  * **Burnable**
+  * **Non-burnable**
+  * **Recycling**
+  * **Plastic**
 
 ---
 
-## **Faceoffs**
+## Setup
 
-A **faceoff** occurs when two Feelings Cards in the pile match by **color or feeling type**.
-
-* The player who played the most recent matching card is **Player A**.
-* The player whose card was matched is **Player B**.
-
----
-
-## **Faceoff Procedure**
-
-### 1. Betting Phase
-
-* All players may place token bets on whether Player B’s story will be **True or False**.
-* Minimum bet is **1 token**.
-* Bets must be matched equally by at least one other player.
-
-### 2. Question & Story
-
-* Player A asks Player B:
-
-  > “When was the last time you felt [the matching feeling]?”
-* If both feelings differ, Player B chooses which one to answer.
-* Before telling the story, all players place one **True or False card face down**.
-* Player B tells a story.
-
-  * Player B **may lie or tell the truth**.
-
-### 3. Negotiation Phase
-
-After the story:
-
-* Players may add to or subtract from bets, but any change must be matched.
-* Players may switch their True/False card only if another player matches the switch.
-* Players may offer Feelings Cards as incentives to encourage others to match a bet or switch.
-* If no betting impact occurs, players **other than Player A and Player B** may freely change their True/False card.
-
-When no further changes are made, all choices are locked.
+* 2–6 players
+* Each player starts with **8 cards**
+* Place the **4 category piles** in the center
+* Remaining cards form a **draw pile**
 
 ---
 
-## **Reveals & Resolution**
+## Game Flow
 
-1. **Player A and Player B reveal their True/False cards.**
-2. Player B’s True/False card determines the **game truth**, regardless of the actual story.
-3. All players reveal their True/False cards for token resolution.
+Each round represents **one day**.
 
-### Outcomes
-
-* If **Player A guessed correctly**, Player A wins **all Feelings Cards in the pile**.
-* If **Player A guessed incorrectly**, Player B wins **all Feelings Cards in the pile**.
-* All players who guessed correctly:
-
-  * Split the won tokens evenly
-  * Gain **1 token from the bank**
+Days progress in this order:
+**Monday → Tuesday → Wednesday → Thursday → Friday → Saturday → Sunday → repeat**
 
 ---
 
-## **End of Game**
+## On Your Turn
 
-The game ends immediately when **one player has no Feelings Cards left** in their deck.
-
----
-
-## **Scoring**
-
-Each player totals their points:
-
-* **Feelings Cards:** 1 point each
-* **Tokens:** 1 point each
-
-The player with the **highest total score** wins.
+* Play **1 card** to a category pile
+* Follow the **Day-Based Placement Rules**
+* Other players may **challenge**
 
 ---
 
-## **Tie-Breaker**
+## Day-Based Placement Rules
 
-If two players tie for the highest score, play a tie-breaker:
+* **Legal Placement:**
+  You may play a card **face-up** only if its category is scheduled for collection that day
 
-1. The tied players draw Feelings Cards one at a time from the pile, placing them face up.
-2. No betting is allowed.
-3. When a match occurs by color or feeling:
+* **Illegal Placement:**
+  *Illegal = placing a card on a day when that category is not collected*
 
-   * A final faceoff is triggered
-   * Only the tied players participate
-   * True/False cards are used, but **no betting**
-4. The winner of this final faceoff wins the game.
+* **Illegal plays:**
 
-If the pile runs out without a match, reshuffle the drawn cards and continue until a match occurs.
+  * Must be placed **face-down**
+  * May be **challenged at any time before collection**
 
----
+* **Monday / Thursday / Sunday:**
 
-## **Player Comfort**
-
-Players may answer questions at a surface level. The goal is fun, not pressure. Respect each other’s boundaries.
+  * No categories are collected
+  * All plays are **illegal → must be face-down**
 
 ---
 
-### **You’re Ready to Play**
+## Challenge Rules
 
-TellUrFeelingz is a game about reading people, not just cards. Bluff wisely, listen closely, and trust your instincts.
+Players may challenge any card **before the relevant pile is collected**.
+
+When a card is revealed:
+
+* **If the play is correct and legal:**
+
+  * The challenger loses
+  * The challenger takes all cards in that pile
+  * The challenger **loses their next turn**
+
+* **If the play is incorrect or illegal:**
+
+  * The player who played the card loses
+  * That player takes all cards in that pile
+
+---
+
+## Face-Down Cards
+
+* Remain hidden until challenged
+* Used for bluffing and illegal placement
+* No additional penalty beyond standard challenge outcomes
+
+---
+
+## Dirty vs Clean Rule
+
+* If an item is **dirty**, it is always **Burnable**
+* Clean items must go to their correct category
+
+---
+
+## Category Rules
+
+* **Burnable:** food waste, dirty paper, dirty plastic
+* **Non-burnable:** glass, metal, electronics
+* **Recycling:** clean paper, cans, bottles
+* **Plastic:** clean plastic items
+
+---
+
+## Collection System
+
+### Collection Schedule
+
+* **Burnable:** Tuesday and Friday
+* **Non-burnable:** Wednesday
+* **Recycling:** Saturday
+* **Plastic:** Saturday
+
+---
+
+## Collection Day Resolution
+
+At the end of a collection day, resolve in this order:
+
+1. **Collect the pile**
+
+   * Remove all cards in the scheduled category pile
+
+2. **Neighborhood Granny Check**
+
+   * Reveal all collected cards
+   * Any cards placed in the **wrong category** are returned to the board:
+
+     * Placed **face-up** in their correct category pile
+
+3. **Remove Correct Cards**
+
+   * All correctly sorted cards are removed from the game
+
+---
+
+## Neighborhood Granny
+
+* Acts **only after collection**
+* Checks **only the category collected that day**
+* Corrects all incorrectly sorted cards (face-up or face-down)
+* Returned cards:
+
+  * Are placed **face-up** in the correct pile
+  * Have **no owner**
+  * **Remain in play and may be challenged like any other face-up card**
+
+---
+
+## Winning
+
+The first player with **0 cards** wins.
+
+---
+
+## Strategy Tips
+
+* Use face-down cards to bluff illegal placements
+* Challenge carefully—piles can grow quickly
+* Time your plays around collection days
+* Watch for cards that may return after Granny checks
+
+---
+
+## Core Idea
+
+**Sort correctly—or trick others into making mistakes.**
+
+
