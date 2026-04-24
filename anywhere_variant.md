@@ -1,175 +1,233 @@
-# **TellUrFeelingz — Playing Card Edition**
+
+# **CleanIt — Playing Card Edition**
 
 *No custom cards required*
 
-## Materials
+---
 
-* 1 standard 52-card deck (no jokers)
-* 1 coin per player
-* Pencil and paper (or notes app) for tokens/scorekeeping
+## **Objective**
+
+Be the first player to get rid of all your cards.
 
 ---
 
-## Player Roles
+## **Materials**
 
-* 2 - 6 Players
-* One Player is also the Bookie, who tracks tokens and bets, and the Bank. They are a scribe but they get 1 token for performing the task.
-
-## Card-to-Feeling Mapping
-
-### Number & Face Cards
-
-| Card        | Feeling        | Prompt                                                |
-| ----------- | -------------- | ----------------------------------------------------- |
-| 2, 3        | **Happy**      | A time you felt happy or good, and why                |
-| 4, 5        | **Love**       | A time you felt love, gave love, or experienced love  |
-| 6, 7        | **Sad**        | A time you felt sad or experienced sadness            |
-| 8, 9        | **Bored**      | A time you felt bored or experienced boredom          |
-| 10, Jack    | **Angry**      | A time you felt angry or experienced anger            |
-| Queen, King | **Frustrated** | A time you felt frustrated or experienced frustration |
-| Ace         | **Wild**       | May represent **any feeling** chosen by the player. Ace (Wild) cards can use color and suit for matching.   |
+* Standard 52-card deck (no jokers)
+* 1 coin (to track days)
+* Paper / notes app (optional)
 
 ---
 
-## Optional Depth Rules (Recommended)
+## **Players & Roles**
 
-These rules add flavor but can be ignored for simpler play.
-
-### Card Color (Red / Black)
-
-| Color | Meaning              | Example Use                                                    |
-| ----- | -------------------- | -------------------------------------------------------------- |
-| Red   | **Direct Feeling**   | The player personally felt the emotion                         |
-| Black | **Indirect Feeling** | The player witnessed or was affected by someone else’s emotion |
-
-Players incorporate this naturally into their story.
+* 2–6 players
+* **Granny:** checks garbage after collection
+* **Scribe:** tracks the day using the coin
 
 ---
 
-### Suit Meaning
+## **Game Flow**
 
-| Suit            | Focus     | Guiding Question                           |
-| --------------- | --------- | ------------------------------------------ |
-| Hearts          | **Who**   | Who was involved?                          |
-| Diamonds        | **Where** | Where did it happen?                       |
-| Spades          | **When**  | When did it happen?                        |
-| Clubs (Clovers) | **How**   | How did you express or handle the feeling? |
+Each round = **one day**
 
-> These do **not** restrict stories — they simply guide them.
+**Day Order:**
+Monday → Tuesday → Wednesday → Thursday → Friday → Saturday → Sunday → repeat
 
 ---
 
-## Setup
+## **Setup**
 
-1. Shuffle the deck and deal cards evenly to all players.
-2. Players form a face-down deck; cards may not be rearranged.
-3. Each player gets **1 coin**.
-4. Bookie chooses a method to track tokens (paper or digital).
-5. Set the **bank** at 20 tokens to start.
+* Shuffle and deal **8 cards** to each player
+* Place 4 category piles in the center:
 
----
-
-## Gameplay
-
-* Players take turns clockwise.
-* On your turn, flip the top card of your deck face up into a shared pile.
-* Won cards are placed at the **bottom** of the winner’s deck.
+  * Burnable
+  * Non-burnable
+  * Recycling
+  * Plastic
+* Choose a **collection schedule** (default below)
 
 ---
 
-## Matching & Faceoffs
+## **Collection Schedule (Default)**
 
-A **faceoff** occurs when two cards match by:
-
-* **Feeling**, or
-
-* **Color (red/black)**, or
-
-* **Suit** *(optional rule)*
-
-* The most recent player is **Player A**
-
-* The matched player is **Player B**
+* Burnable: Tuesday, Friday
+* Non-burnable: Wednesday
+* Recycling: Saturday
+* Plastic: Saturday
 
 ---
 
-## Coin (True / False)
+## **On Your Turn**
 
-* Each player secretly places their coin:
-
-  * **Heads = True**
-  * **Tails = False**
-* Coins are covered until revealed.
+* Play **1 card** to a category pile
+* Follow placement rules
+* Other players may **challenge**
 
 ---
 
-## Faceoff Flow
+## **Placement Rules**
 
-1. **Question**
+### Legal Play
 
-   * Player A asks Player B a question about the feeling:
+* You may play **face-up** only if that category is collected that day
 
-     > “When was the last time you or someone you know experienced this feeling?”
-     
-     > "Tell a story about a time when you experienced or saw someone experience this feeling?
-     
-   * Player B chooses the feeling if the card is Wild.
+### Illegal Play
 
-2. **Story**
+* *Illegal = placing a card when that category is NOT collected*
+* Must be played **face-down**
+* Can be challenged anytime before collection
 
-   * Player B tells a story.
-   * Player B may lie or tell the truth.
+### No-Collection Days
 
-3. **Final Truth**
+(Monday / Thursday / Sunday)
 
-   * Player B’s coin determines whether the story is **considered true or false** for the game.
-
-4. **Reveal**
-
-   * Player A and Player B reveal their coins.
-   * Other players reveal only for token resolution.
+* All plays are **illegal → must be face-down**
 
 ---
 
-## Tokens & Betting (Simplified Version)
+## **Challenge Rules**
 
-* Players may choose **not** to bet.
-* Any player who guesses correctly:
+Before collection, any player may challenge:
 
-  * Gains **1 token from the bank**
-* Non-faceoff players automatically place **1 token bet via the bank**.
-* If one faceoff player wants to bet and the other does not:
+* **If correct & legal:**
 
-  * The **bank matches the bet**, up to **5 tokens max**.
+  * Challenger takes the pile
+  * Challenger loses their next turn
 
----
+* **If incorrect or illegal:**
 
-## Winning the Pile
-
-* If **Player A guessed correctly**, Player A wins all cards in the pile.
-* If **Player A guessed incorrectly**, Player B wins all cards in the pile.
+  * Player who played it takes the pile
 
 ---
 
-## End of Game
+## **Collection & Granny**
 
-* The game ends when one player runs out of cards.
+At the end of a collection day:
+
+1. **Collect the pile**
+2. **Granny checks collected cards:**
+
+   * Reveal all cards
+   * Incorrect cards return **face-up** to correct piles
+3. **Correct cards are removed from the game**
+
+**Returned cards:**
+
+* Have no owner
+* Stay in play
+* Can be challenged like normal
 
 ---
 
-## Scoring
+## **Card System**
 
-* Cards: **1 point each**
-* Tokens: **1 point each**
-* Highest total score wins.
+### Suit = Category
+
+* ♥ Hearts → **Burnable**
+* ♦ Diamonds → **Non-burnable**
+* ♠ Spades → **Plastic**
+* ♣ Clubs → **Recycling**
 
 ---
 
-## Tie-Breaker
+### Color = Condition
 
-* Tied players draw cards from the pile until a match occurs.
-* A final faceoff is played:
+* Red → **Dirty**
+* Black → **Clean**
 
-  * Coins only
-  * No betting
-* Winner of that faceoff wins the game.
+---
+
+### Dirty Rule
+
+* Dirty items → **Burnable**
+* **Exception:** ♦ Non-burnable items always stay Non-burnable
+
+---
+
+## **Card → Item Mapping**
+
+### ♥ Burnable
+
+2 Tissue
+3 Receipt
+4 Napkin
+5 Paper wrapper
+6 Dirty cardboard
+7 Dirty pizza box
+8 Chopsticks
+9 Toothpick
+10 Food scraps
+J Coffee filter
+Q Greasy paper bag
+K Paper cup
+A Wild (Burnable)
+
+---
+
+### ♦ Non-burnable
+
+2 Glass shard
+3 Ceramic cup
+4 Plate
+5 Mirror
+6 Light bulb
+7 Aluminum tray
+8 Metal utensil
+9 Small appliance
+10 Battery
+J Old phone
+Q Glass bottle (non-recyclable)
+K Metal object
+A Wild (Non-burnable)
+
+---
+
+### ♠ Plastic
+
+2 Plastic bag
+3 Wrapper
+4 Food tray
+5 Shampoo bottle
+6 PET bottle
+7 Plastic cup
+8 Straw
+9 Lid
+10 Takeout container
+J Toothbrush
+Q Hanger
+K Hard case
+A Wild (Plastic)
+
+---
+
+### ♣ Recycling
+
+2 Newspaper
+3 Magazine
+4 Cardboard
+5 Paper box
+6 Milk carton
+7 Aluminum can
+8 Steel can
+9 Glass bottle
+10 Paper bag
+J Flyer
+Q Office paper
+K Shipping box
+A Wild (Recycling)
+
+---
+
+## **Winning**
+
+First player with **0 cards** wins.
+
+---
+
+## **Core Idea**
+
+**Sort correctly—or trick others into making mistakes.**
+
+---
+
