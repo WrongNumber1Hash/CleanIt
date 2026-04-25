@@ -1,8 +1,12 @@
-# psych_games
+# CleanIt
 
-⚠️ WARNING: This game involves psychological interaction. Please read the Disclaimer before playing or contributing.
+CleanIt is a game that allows players to play a game preparing a household’s weekly garbage takeouts where you have to navigate the sorting of the garbage and sorting it to be picked up on the correct day.
 
-Games using emotion or psychology to engage players to interact with each other
+👉 🔥 Burnable
+👉 🧴 Plastic
+👉 🔩 Non-burnable
+👉 ♻️ Recyclable
+
 
 CleanIt is a card game for between 2-6 people. Goal is to be the first player to lose all of your cards representing all the items you want to dispose of. Recycling rules can be modified and players can decided on any customization to make it more interesting.
 
