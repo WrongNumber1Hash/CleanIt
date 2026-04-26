@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-This is a basic framework for a game to discuss feelings. Players should discuss among themselves about rules for the game and behavior during the game. Eveyone's enjoyment should be a priority and mutual respect between Players should be discussed as part of the preparation for playing the game.
+This is a basic framework for a game about disposing of household garbage and recycling. Players should discuss among themselves about rules for the game and behavior during the game. Eveyone's enjoyment should be a priority and mutual respect between Players should be discussed as part of the preparation for playing the game.
 
 | Version | Supported          |
 | ------- | ------------------ |
